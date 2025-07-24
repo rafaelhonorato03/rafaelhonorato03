@@ -21,7 +21,7 @@ Sou estudante de Ciência de Dados na Univesp, apaixonado por literatura, ciênc
 
 Estou sempre explorando como a ciência de dados pode ser aplicada em diversas áreas, desde a indústria até o ensino, e acredito que a colaboração é uma das melhores maneiras de aprender e crescer.
 
-## Habilidades em desenvolvimento
+## Habilidades
 
 - **Linguagens**: Python, SQL, R
 - **Ferramentas**: Excel, Power BI, Google Cloud, Looker, Spark, Databricks
